@@ -1,1 +1,0 @@
-This is Miro's first git projekt!
